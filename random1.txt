@@ -1,0 +1,2 @@
+cd (path) - move to specified dir
+cwd - current working dir (fuck you)
